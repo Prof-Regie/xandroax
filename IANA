@@ -1,0 +1,66 @@
+admin" : {OWNER 
+    "city" : "METRO MANILA",
+    "country" : "PHILIPPINES",
+    "email" : "regieanarredofrancisco@gmail.com",
+    "fax" : "",
+    "name" : "PROF.REGIE ANARREDO FRANCISCO",
+    "organization" : "DEPARTMENT OF EDUCATION",
+    "phone" : "09544420024",
+    "region" : "NATIONAL CAPITAL REGION",
+    "street_address" : "",
+    "zip_code" : ""
+  },
+  "billing" : {
+    "city" : "",
+    "country" : "",
+    "email" : "",
+    "fax" : "",
+    "name" : "",
+    "organization" : "",
+    "phone" : "",
+    "region" : "",
+    "street_address" : "",
+    "zip_code" : ""
+  },
+  "create_date" : "1995-08-14T04:00:00Z",
+  "domain" : "regieanarredofrancisco@gmail.com",
+  "domain_age" : 10717,
+  "domain_id" : "2336799_DOMAIN_COM-VRSN",
+  "expire_date" : "2025-08-13T04:00:00Z",
+  "nameservers" : [
+    "a.iana-servers.net",
+    "b.iana-servers.net"
+  ],
+  "registrant" : {REGIE ANARREDO FRANCISCO
+    "city" : "",
+    "country" : "",
+    "email" : "",
+    "fax" : "",
+    "name" : "",
+    "organization" : "",
+    "phone" : "",
+    "region" : "",
+    "street_address" : "",
+    "zip_code" : ""
+  },
+  "registrar" : {
+    "iana_id" : "376",
+    "name" : "RESERVED-Internet Assigned Numbers Authority",
+    "url" : "http://res-dom.iana.org"
+  },
+  "status" : "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+  "tech" : {
+    "city" : "",
+    "country" : "",
+    "email" : "",
+    "fax" : "",
+    "name" : "",
+    "organization" : "",
+    "phone" : "",
+    "region" : "",
+    "street_address" : "",
+    "zip_code" : ""
+  },
+  "update_date" : "2024-08-14T07:01:34Z",
+  "whois_server" : "whois.iana.org"
+}
