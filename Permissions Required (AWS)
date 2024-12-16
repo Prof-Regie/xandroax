@@ -1,0 +1,22 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "route53:CreateHostedZone",
+                "route53:GetHostedZone",
+                "route53:ListHostedZones",
+                "route53:ChangeResourceRecordSets",
+                "route53:ListVPCAssociationAuthorizations",
+                "route53:ListResourceRecordSets",
+                "route53:DeleteHostedZone",
+                "route53:UpdateHostedZoneComment",
+                "route53:ListTagsForResources",
+                "ec2:DescribeRegions",
+                "ec2:DescribeVpcs",
+                "route53:ListQueryLoggingConfigs",
+                "route53:ListTrafficPolicyInstancesByHostedZone"
+            ],
+            "
